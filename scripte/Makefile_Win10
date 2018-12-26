@@ -1,15 +1,11 @@
-# ju -- https://bw1.eu -- 26-Dez-18  -- Makefile
+# -*- Makefile -*-
 # Win10
 # gcc -v // Version 7.1.0
-# 26-Dez-18
+# 9.10.18
 
 TARGETS=\
 	halloWelt.exe \
-	halloC-v01.exe \
-	halloC-v02.exe \
-	halloC++-v01.exe \
-  halloC++-v02.exe \
-# 
+
 CC:=gcc
 CLIBS=-lz meineFkt.c meineFkt.h -lm
 CFLAGS=-Wall -Wextra -std=c11 -lpthread -pthread -O0 -Wno-missing-field-initializers -g
