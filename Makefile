@@ -2,13 +2,20 @@
 # Win10
 # gcc -v // Version 7.1.0
 # 26-Dez-18
-
+#
 TARGETS=\
-	halloWelt.exe \
+	bitweisesEinerkomplement.exe \
+	bitweisesODER.exe \
+	bitweisesUND.exe \
+	bitweisesXOR.exe \
+	bitweiseVerschiebung.exe \
 	halloC-v01.exe \
 	halloC-v02.exe \
+	logik.exe \
+	mitZuruecklegen.exe \
+	modulo.exe \
 	halloC++-v01.exe \
-  halloC++-v02.exe \
+	halloC++-v02.exe \
 # 
 CC:=gcc
 CLIBS=-lz meineFkt.c meineFkt.h -lm

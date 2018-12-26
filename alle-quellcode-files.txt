@@ -1,0 +1,20 @@
+﻿ju -- https://bw1.eu -- 26-Dez-18 -- alle-quellcode-files.txt
+
+in Makefile speichern:
+======================
+
+bitweisesEinerkomplement.exe \
+bitweisesODER.exe \
+bitweisesUND.exe \
+bitweisesXOR.exe \
+bitweiseVerschiebung.exe \
+halloC-v01.exe \
+halloC-v02.exe \
+logik.exe \
+mitZuruecklegen.exe \
+modulo.exe \
+halloC++-v01.exe \
+halloC++-v02.exe \
+
+======================
+
