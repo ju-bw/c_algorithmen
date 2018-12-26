@@ -3,7 +3,7 @@
 */
 #include <stdio.h>
 int main(void){
-	char *message    = "\nLogik in C: UND (&) - ODER (|) - XOR (^) - NEG (!)\n";
+	char *msg    = "\nLogik in C: UND (&) - ODER (|) - XOR (^) - NEG (!)\n";
 	char *tblKopf    = "| **E1** | **E2** | **UND** | **ODER** | **XOR** |\n";
 	char *tblStrich  = "|-------:|-------:|--------:|---------:|--------:|\n";
 	char *tbl2Kopf   = "| **E1** | **NEG** | \n";
@@ -11,7 +11,7 @@ int main(void){
 	int E1 = 0, E2 = 0;
 	int UND, ODER, XOR, NEG;
 
-	printf("%s",message);
+	printf("%s",msg);
 
 	// UND (&) - ODER (|) - XOR (^)
 	printf("\n%s",tblKopf);

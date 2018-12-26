@@ -5,15 +5,21 @@
 #
 TARGETS=\
 	bitweisesEinerkomplement.exe \
+	bitweisesODER-v02.exe \
 	bitweisesODER.exe \
 	bitweisesUND.exe \
 	bitweisesXOR.exe \
 	bitweiseVerschiebung.exe \
+	eingabe-user-pruefen-v02.exe \
+	eingabe-user-pruefen.exe \
 	halloC-v01.exe \
 	halloC-v02.exe \
+	integer.exe \
+	logik-v02.exe \
 	logik.exe \
 	mitZuruecklegen.exe \
 	modulo.exe \
+	schaltung.exe \
 	halloC++-v01.exe \
 	halloC++-v02.exe \
 # 
